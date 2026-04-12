@@ -1,0 +1,15 @@
+{
+  "development": {
+    "username": "avnadmin",
+    "password": "SUA_SENHA_AQUI",
+    "database": "defaultdb",
+    "host": "mysql-30c55ac8-victorenazzi13-265c.g.aivencloud.com",
+    "port": 21511,
+    "dialect": "mysql",
+    "dialectOptions": {
+      "ssl": {
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
